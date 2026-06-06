@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-310/)
+[![Status: MVP Validated](https://img.shields.io/badge/Status-MVP%20Validated-brightgreen.svg)](#)
+
 # AI Shift Handover System
 
 **Status:** ✅ MVP Validated | **Phase:** Implementation (Phase 2, July 2026)
